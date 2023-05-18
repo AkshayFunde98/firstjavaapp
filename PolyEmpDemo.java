@@ -1,4 +1,3 @@
-package polymorphism;
 
 abstract class Person {
 	private String name;
